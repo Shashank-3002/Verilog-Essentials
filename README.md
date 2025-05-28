@@ -88,8 +88,7 @@ endmodule
 
 ## 🔗 Connect & Contribute
 
-- 📌 GitHub Repo:[15-Days-Verilog-Fundamentals](https://github.com/Shashank-3002/15-Days-of-Verilog-Fundamentals)
-- 🤝 Follow my progress on [LinkedIn](https://www.linkedin.com/in/shashank-naragundmath-980617288/)
+- 🤝 Follow me on [LinkedIn](https://www.linkedin.com/in/shashank-naragundmath-980617288/)
 - 🌱 Feel free to fork, clone, or suggest improvements!
 
 ---
