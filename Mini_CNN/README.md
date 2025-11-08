@@ -43,7 +43,7 @@ Design a **CNN Compute Module** capable of performing:
 
 Below is the architectural block diagram of the CNN Compute Unit:
 
-![Block Diagram](./A_block_diagram_in_the_digital_image_illustrates_a.png)
+![Block Diagram](./block_diagram.png)
 
 ### Components:
 - **Memory Block** – Stores pixel and kernel data  
@@ -76,7 +76,7 @@ Below is the architectural block diagram of the CNN Compute Unit:
 
 ### 🖥️ Output Screenshot
 
-![Output Log](./d81ab8d7-7ab9-402c-b9d5-003092346bcd.png)
+![Output Log](./Simulation_Output)
 
 ---
 
@@ -85,6 +85,7 @@ Below is the architectural block diagram of the CNN Compute Unit:
 Waveform verification showing clock, FSM transitions, result output, and overflow flag activity.
 
 ![GTKWave Simulation](./79413b81-d63c-4865-8b3c-d5a1eed82502.png)
+
 
 
 
