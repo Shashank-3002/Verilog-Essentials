@@ -1,0 +1,72 @@
+$date
+	Fri Jun 13 20:15:07 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module boolean_exp_tb $end
+$var wire 1 ! Y $end
+$var reg 1 " A $end
+$var reg 1 # B $end
+$var reg 1 $ C $end
+$var reg 1 % D $end
+$var reg 1 & E $end
+$scope module dut $end
+$var wire 1 " A $end
+$var wire 1 # B $end
+$var wire 1 $ C $end
+$var wire 1 % D $end
+$var wire 1 & E $end
+$var wire 1 ! Y $end
+$var wire 1 ' e1 $end
+$var wire 1 ( e2 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#10000
+1!
+1'
+1#
+1"
+#20000
+1(
+0'
+1%
+1$
+0#
+0"
+#30000
+0(
+1&
+0%
+0$
+#40000
+1(
+1'
+0&
+1%
+1$
+1#
+1"
+#50000
+0'
+1&
+0#
+#60000
