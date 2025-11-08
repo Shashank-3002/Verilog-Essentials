@@ -86,6 +86,21 @@ Waveform verification showing clock, FSM transitions, result output, and overflo
 
 ![GTKWave Simulation](./Simulated_Waveform.png)
 
+---
+
+## 💡 How to Run
+
+##
+```bash
+1️⃣ Compile the Design
+iverilog -o cnn_param_sim cnn_param.v cnn_param_tb.v
+
+2️⃣ Run Simulation
+vvp cnn_param_sim
+
+3️⃣ View Waveform
+gtkwave nn_param_wave.vcd
+
 
 
 
