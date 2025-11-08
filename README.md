@@ -93,7 +93,7 @@ endmodule
 
 ---
 
-## 🧠 #VerilogChallenge | #RTLDesign | #ECE | #VLSI | #DigitalLogic
+## #RTLDesign | #ECE | #VLSI | #DigitalLogic
 
 Let’s code the hardware future — one gate at a time 💡
 
