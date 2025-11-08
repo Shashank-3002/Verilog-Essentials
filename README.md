@@ -1,8 +1,8 @@
 # 🔌 Verilog HDL Essentials – From Basics to Simulation
 
-Welcome to the **Verilog HDL Essentials** repository – **your one-stop guide** to understanding and simulating digital logic using Verilog HDL! Whether you're a beginner or brushing up on fundamentals, this guide will walk you through module creation, testbench writing, tool setup, and waveform visualization using industry-standard tools.
+Welcome to the **Verilog HDL Essentials** repository – **your one-stop guide** to understanding and simulating digital logic using Verilog HDL! Whether you're a beginner or brushing up on fundamentals, this guide will walk you through creating modules, writing testbenches, setting up tools, and visualising waveforms using industry-standard tools.
 
-In this repository, I’ll be implementing and simulating core digital components, ranging from simple logic gates to a complete ALU, using **Icarus Verilog**, **GTKWave**, and **VS Code**.
+In this repository, I’ll implement and simulate core digital components, ranging from simple logic gates to a complete ALU, using **Icarus Verilog**, **GTKWave**, and **VS Code**.
 
 > ⚡ **Follow along if you're an ECE student, a VLSI enthusiast, or diving into RTL Design!**
 
@@ -79,7 +79,7 @@ endmodule
 
 ## 📚 Learning Outcomes
 
-- Strong grasp of gate, dataflow, and behavioral modeling
+- Strong grasp of gate, dataflow, and behavioural modelling
 - Hands-on experience simulating RTL designs
 - Familiarity with digital circuit testing and waveform analysis
 - Confidence to pursue FPGA and SoC projects
